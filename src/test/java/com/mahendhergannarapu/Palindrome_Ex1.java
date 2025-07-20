@@ -1,6 +1,6 @@
 package com.mahendhergannarapu;
 
-public class Palindrome_Ex {
+public class Palindrome_Ex1 {
     public static void main(String[] args) {
 
         String str1 = "Madam";
